@@ -7,7 +7,7 @@ export default function NumberGrabber(){
 
     return(
         <div>
-            <h1>The number that this component grabbed is: {potato}</h1>
+            <h1>The number that this component grabbed is: {params.potato}</h1>
         </div>
     )
 }
