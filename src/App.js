@@ -37,10 +37,10 @@ function App() {
       <BrowserRouter>
         <ul>
           <li>
-            <Link to="/1">Page 1</Link>
+            <Link to="/1/banana/muffin">Page 1</Link>
           </li>
           <li>
-            <Link to="/2">Page 2</Link>
+            <Link to="/2/3/4">Page 2</Link>
           </li>
         </ul>
 
